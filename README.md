@@ -1,5 +1,9 @@
 # kiro-recall
 
+<p align="center">
+  <img src="logo.svg" width="120" alt="kiro-recall logo" />
+</p>
+
 > Your knowledge. Your machine. Every session. Automatically.
 
 A Kiro Power that forces your personal knowledge vault into every session before you type a single word. Wraps [@bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) to inject relevant notes as ambient context, and captures new knowledge mid-session via `/recall`.
